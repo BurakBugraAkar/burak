@@ -23,8 +23,10 @@ function openSocialSelector() {
       name: 'link',
       choices: [
         { name: chalk.bold.hex('#888888')(`💻  GitHub`), value: 'https://github.com/BurakBugraAkar' },
-        { name: chalk.bold.hex('#1DA1F2')(`❤️  Npm`), value: 'https://www.npmjs.com/~burakbugraakar' },
-        { name: chalk.bold.hex('#f04a45')('👋  Nope. Bye.'), value: false }
+        { name: chalk.bold.hex('#c80000')(`❤️  Npm`), value: 'https://www.npmjs.com/~burakbugraakar' },
+        { name: chalk.bold.hex('#f7678f')(`📩  Send Mail`), value: 'mailto: burakbugraakar@gmail.com' },
+        { name: chalk.bold.hex('#ffffff')(`📉  Website`), value: 'https://volumtracker.com' },
+        { name: chalk.bold.hex('#fdd641')('👋  Nope. Bye.'), value: false }
       ]
     }
   ])

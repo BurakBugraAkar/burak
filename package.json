@@ -4,7 +4,7 @@
   "description": "Burak Buğra Akar About",
   "main": "burak.js",
   "bin": {
-    "berk": "burak.js"
+    "burak": "burak.js"
   },
   "repository": {
     "type": "git",
