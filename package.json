@@ -1,6 +1,6 @@
 {
   "name": "burak",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Burak Buğra Akar About",
   "main": "burak.js",
   "bin": {
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/BurakBugraAkar/burak.git"
   },
   "keywords": [
-    "berk",
-    "berkaltiok"
+    "burakbuğraakar",
+    "burak"
   ],
   "author": "Burak Buğra Akar",
   "license": "MIT",
